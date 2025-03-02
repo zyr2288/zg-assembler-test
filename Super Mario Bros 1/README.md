@@ -6,7 +6,7 @@ It's work for [ZG Assembler](https://marketplace.visualstudio.com/items?itemName
 
 It has been tested to compile and run perfectly, with no difference in the binary compared to the original.
 
-从https://github.com/Xkeeper0/smb1克隆下来，并修改了部分代码。
+从 https://github.com/Xkeeper0/smb1 克隆下来，并修改了部分代码。
 
 超级马里奥1反汇编代码，可适用 VSCode 插件 [ZG Assembler](https://marketplace.visualstudio.com/items?itemName=ZENG-GE.zg-assembler)
 
