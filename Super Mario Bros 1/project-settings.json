@@ -1,0 +1,12 @@
+{
+	"platform": "6502",
+	"intellisense": true,
+	"outOfRangeWarning": true,
+	"entry": "smb1.asm",
+	"compileTimes": 2,
+	"outputEntryFile": "smb.nes",
+	"outputSingleFile": "",
+	"copyToClipboard": false,
+	"includes": ["**/*.asm"],
+	"excludes": []
+}
