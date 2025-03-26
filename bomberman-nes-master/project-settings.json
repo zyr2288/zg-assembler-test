@@ -1,0 +1,12 @@
+{
+	"platform": "6502",
+	"intellisense": true,
+	"outOfRangeWarning": true,
+	"entry": "BMAN.asm",
+	"compileTimes": 2,
+	"outputEntryFile": "boom.nes",
+	"outputSingleFile": "",
+	"copyToClipboard": false,
+	"includes": ["**/*.asm"],
+	"excludes": []
+}

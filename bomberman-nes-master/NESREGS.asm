@@ -1,0 +1,20 @@
+; NES registers
+
+	.DEF PPU_CTRL_REG1,        $2000
+	.DEF PPU_CTRL_REG2,        $2001
+	.DEF PPU_STATUS,           $2002
+	.DEF PPU_SPR_ADDR,         $2003
+	.DEF PPU_SPR_DATA,         $2004
+	.DEF PPU_SCROLL_REG,       $2005
+	.DEF PPU_ADDRESS,          $2006
+	.DEF PPU_DATA,             $2007
+	.DEF APU_REG_BASE,         $4000
+	.DEF APU_SQUARE1_REG,      $4000
+	.DEF APU_SQUARE2_REG,      $4004
+	.DEF APU_TRIANGLE_REG,     $4008
+	.DEF APU_NOISE_REG,        $400C
+	.DEF APU_DELTA_REG,        $4010
+	.DEF APU_MASTERCTRL_REG,   $4015
+	.DEF PPU_SPR_DMA,          $4014
+	.DEF JOYPAD_PORT1,         $4016
+	.DEF JOYPAD_PORT2,         $4017
