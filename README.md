@@ -4,8 +4,8 @@
 
 插件开源地址:
 
-[![Test Files](https://img.shields.io/badge/github-black?logo=github)](https://github.com/zyr2288/zg-assembler-test)
-[![Test Files](https://img.shields.io/badge/gitee-red?logo=gitee)](https://gitee.com/zeng_ge/zgassembler-test)
+[![Test Files](https://img.shields.io/badge/github-black?logo=github)](https://github.com/zyr2288/zg-assembler)
+[![Test Files](https://img.shields.io/badge/gitee-red?logo=gitee)](https://gitee.com/zeng_ge/zg-assembler-next)
 
 为了测试插件自己写或者从网上找到的一些程序代码，能用插件一键编译的。
 
