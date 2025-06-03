@@ -2,7 +2,7 @@
 
 > 项目来自：https://github.com/emu-russia/bomberman-nes
 
-![JPG](/imgstore/whc4f9a3ebbbf486.jpg)
+![JPG](https://github.com/emu-russia/bomberman-nes/blob/master/imgstore/whc4f9a3ebbbf486.jpg)
 
 Get sources from Git and run MAKE.BAT to build .NES file.
 
