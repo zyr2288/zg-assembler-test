@@ -1,0 +1,6 @@
+# NES扫雷
+
+NES扫雷，原项目地址：https://github.com/SBasalaev/nesmine
+
+NESMine is a port of the Minesweeper game from the popular operating
+system to the Nintendo Entertainment System (NES, Famicom).
