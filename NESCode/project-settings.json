@@ -1,0 +1,12 @@
+{
+	"platform": "6502",
+	"intellisense": true,
+	"outOfRangeWarning": true,
+	"entry": "example_text.asm",
+	"compileTimes": 2,
+	"outputEntryFile": "example.nes",
+	"outputSingleFile": "",
+	"copyToClipboard": false,
+	"includes": ["**/*.asm"],
+	"excludes": []
+}
