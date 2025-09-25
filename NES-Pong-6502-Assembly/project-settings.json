@@ -1,0 +1,12 @@
+{
+	"platform": "6502",
+	"intellisense": true,
+	"outOfRangeWarning": true,
+	"entry": "game.asm",
+	"compileTimes": 2,
+	"outputEntryFile": "game.nes",
+	"outputSingleFile": "",
+	"copyToClipboard": false,
+	"includes": ["**/*.asm"],
+	"excludes": []
+}
