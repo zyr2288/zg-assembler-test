@@ -1,0 +1,22 @@
+	.MACRO MACRO_WAIT_FOR_VBLANK
+vblankwait
+	BIT $2002        ; bit 7 of $2002 is reset once vblank ends
+	BPL vblankwait  ; and bit 7 is what is checked by BPL
+	.ENDM
+
+
+	.MACRO MACRO_WAIT_FOR_SPRITE0
+; sprite 0, fixed status bar
+SPRITE_0_CLEAR_WAIT
+	BIT PPU_STATUS
+	BVS SPRITE_0_CLEAR_WAIT
+
+SPRITE_0_WAIT
+	BIT PPU_STATUS
+	BVC SPRITE_0_WAIT
+	.ENDM
+
+	.MACRO MACRO_INFINITE_LOOP
+INFINITE_LOOP
+	JMP INFINITE_LOOP
+	.ENDM

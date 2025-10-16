@@ -1,0 +1,12 @@
+{
+	"platform": "6502",
+	"intellisense": true,
+	"outOfRangeWarning": true,
+	"entry": "./src/chrome-dino.asm",
+	"compileTimes": 2,
+	"outputEntryFile": "out.nes",
+	"outputSingleFile": "",
+	"copyToClipboard": false,
+	"includes": ["**/*.asm"],
+	"excludes": []
+}

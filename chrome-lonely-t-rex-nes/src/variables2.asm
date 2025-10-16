@@ -1,0 +1,14 @@
+; variables wont be reset by reset
+
+	.ENUM MEM_LAYOUT_VAR_2
+		VAR_GAME_STATUS, 1
+		VAR_DINO_STATUS, 1
+		VAR_LAST_A_0, 1
+
+		VAR_RANDOM_SEED, 1
+		VAR_DINO_VELOCITY, 1
+		VAR_DINO_VELOCITY_SLOW, 1
+
+		VAR_SCORE_HI, 5
+	.ENDE
+
